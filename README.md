@@ -1,3 +1,5 @@
+*This is a mirror. See upstream: https://github.com/nashtech-garage/yas*
+
 # YAS: Yet Another Shop
 
 YAS is a pet project aim to practice building a typical microservice application in Java
